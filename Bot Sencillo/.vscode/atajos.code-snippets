@@ -1,0 +1,10 @@
+{
+	"reply text":
+	{
+		"prefix": "rtxt",
+		"body": [
+			"update.message.reply_text()"
+		],
+		"description": "Atajo para update.message.reply_text"
+	}
+}

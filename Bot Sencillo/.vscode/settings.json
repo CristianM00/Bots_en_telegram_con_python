@@ -1,0 +1,4 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": ["C:/Users/crist/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages"]
+}
